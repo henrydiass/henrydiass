@@ -24,6 +24,11 @@ My name is Henry I am a Full-stack Software Engineer specialized in Java Spring 
 <img src="https://camo.githubusercontent.com/b0ba8ee610d984ef6578bc0ec532051c8fdc40e66d690c22576382188269d0d4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d62617368" />
 </div>
 
-## 
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50" />
+## Frameworks and Libraries:
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45" />
+<img src="https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374" />
+<img src="https://camo.githubusercontent.com/2c8001fd6c104a232ebb3cddc6f58dad15ac4e58d9063477da6b0420c44a1b66/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c6172" />
+<img src="https://camo.githubusercontent.com/369ce0f9d1b9e5e69b4b6df1752862ce1fc99699d6bb17d84cc2825c75d1e2d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73" />
+<img src="https://camo.githubusercontent.com/2972d24152bb5f448030ec98e53213bc91311967ca95819cf59de233fc0d998b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e657374" />
+<img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" />
 
