@@ -14,7 +14,7 @@ My name is Henry I am a Full-stack Software Engineer specialized in Java Spring 
 
 
 ## Languages that I've worked:
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 30px; align-items: center;">
 <img src="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661" />
 <img src="https://camo.githubusercontent.com/1594bb61e85b22739a2e8fa02ea68154f8969efc2f280a47f2602f99d5f0fc0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079" />
 <img src="https://camo.githubusercontent.com/ffa7b120ef5eca755e9a119e96882fe9743634dec1970a0c8076907390c9c989/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373" />
@@ -25,6 +25,7 @@ My name is Henry I am a Full-stack Software Engineer specialized in Java Spring 
 </div>
 
 ## Frameworks and Libraries:
+<div style="display: flex; gap: 30px; align-items: center"> 
 <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="45" height="45" />
 <img src="https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374" />
 <img src="https://camo.githubusercontent.com/2c8001fd6c104a232ebb3cddc6f58dad15ac4e58d9063477da6b0420c44a1b66/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c6172" />
@@ -32,5 +33,6 @@ My name is Henry I am a Full-stack Software Engineer specialized in Java Spring 
 <img src="https://camo.githubusercontent.com/2972d24152bb5f448030ec98e53213bc91311967ca95819cf59de233fc0d998b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e657374" />
 <img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" />
 <img src="https://camo.githubusercontent.com/eb576d9e469761eb01e3faf6b607a06cb105add548d5efac6dcbf0e91be0acb3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6574" />
+</div>
 
 
