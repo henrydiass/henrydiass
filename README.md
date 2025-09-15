@@ -1,44 +1,5 @@
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydiass&layout=compact&theme=tokyonight)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-🚀 Tech Stack
-💡 Backend
-
-Java (Spring Boot, Spring MVC)
-
-Arquitetura Limpa e Microserviços
-
-APIs REST | Integração com serviços externos
-
-📊 Data & Problem Solving
-
-
-Python (pandas, NumPy, regressão linear)
-
-Resolução de problemas estilo LeetCode (algoritmos e estruturas de dados)
-
-☁️ Cloud & DevOps
-
-AWS (EC2, S3, Lambda, RDS)
-
-Docker & CI/CD
-
-🎨 Frontend
-
-React (componentização e integração com APIs)
-
-📈 Em constante evolução
-
-Sempre estudando estruturas de dados, design patterns e melhores práticas para entregar código limpo, eficiente e de fácil manutenção.
-
-📫 Vamos conectar? LinkedIn https://www.linkedin.com/in/henrydias14/
-
-
+Hello 👋
+https://camo.githubusercontent.com/0a0f23f31c2f7518848e24918353467a28a3f2c9fe023fe0e3e132b418196e14/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f584f38524d7452614b3733697349743069322f67697068792e6769663f6369643d373930623736313131313138626433313064343363313130313666613362353231353834643537643665363735356237267269643d67697068792e6769662663743d67
 
 
