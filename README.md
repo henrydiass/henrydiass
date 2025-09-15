@@ -29,5 +29,5 @@ React (componentização e integração com APIs)
 Sempre estudando estruturas de dados, design patterns e melhores práticas para entregar código limpo, eficiente e de fácil manutenção.
 
 📫 Vamos conectar? LinkedIn https://www.linkedin.com/in/henrydias14/
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydiass&layout=compact&theme=tokyonight)
 
