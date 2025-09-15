@@ -25,5 +25,5 @@ My name is Henry I am a Full-stack Software Engineer specialized in Java Spring 
 </div>
 
 ## 
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="50" height="50" />
 
