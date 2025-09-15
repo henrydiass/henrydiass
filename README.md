@@ -31,7 +31,7 @@ Sempre estudando estruturas de dados, design patterns e melhores práticas para 
 📫 Vamos conectar? LinkedIn https://www.linkedin.com/in/henrydias14/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydiass&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrydiass&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=henrydiass&show_icons=true&theme=tokyonight)
 
 
 
